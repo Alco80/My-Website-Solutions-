@@ -7,4 +7,4 @@ return(
 }
 
 
-export default Error;
+export default Header;
